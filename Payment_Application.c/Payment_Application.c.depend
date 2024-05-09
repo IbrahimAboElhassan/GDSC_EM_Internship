@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1715212205 source:d:\materials\gdsc_payment_app\payment_application.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"Card_M.h"
+	"Terminal_M.h"
+	"Server_M.h"
+	"Application.h"
+
+1715181263 source:d:\materials\gdsc_payment_app\payment_application.c\card_m.c
+	"Card_M.h"
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+
+1715182109 d:\materials\gdsc_payment_app\payment_application.c\card_m.h
+
+1715212886 source:d:\materials\gdsc_payment_app\payment_application.c\terminal_m.c
+	"Terminal_M.h"
+	"Card_M.h"
+	"Server_M.h"
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1715249016 d:\materials\gdsc_payment_app\payment_application.c\terminal_m.h
+	<stdint.h>
+	"Card_M.h"
+
+1714918257 source:d:\materials\gdsc_payment_app\payment_application.c\database.c
+	"dataBase.h"
+	"string.h"
+
+1714845961 d:\materials\gdsc_payment_app\payment_application.c\database.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1715180489 source:d:\materials\gdsc_payment_app\payment_application.c\server_m.c
+	"Server_M.h"
+	"Card_M.h"
+	"Terminal_M.h"
+	<string.h>
+
+1715168077 d:\materials\gdsc_payment_app\payment_application.c\server_m.h
+	"Card_M.h"
+	"Terminal_M.h"
+	<stdint.h>
+
+1715212281 source:d:\materials\gdsc_payment_app\payment_application.c\application.c
+	<stdio.h>
+	<stdint.h>
+	"Card_M.h"
+	"Terminal_M.h"
+	"Server_M.h"
+	"Application.h"
+
+1715183951 d:\materials\gdsc_payment_app\payment_application.c\application.h
+
